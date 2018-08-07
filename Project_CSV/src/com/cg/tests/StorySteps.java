@@ -48,7 +48,7 @@ public class StorySteps {
 	public void registration_Page_is_loaded() throws Throwable {
 		System.setProperty("webdriver.chrome.driver", "D:\\Users\\simullap\\Documents\\chromedriver.exe");
 		driver = new ChromeDriver();
-		driver.get("D:\\JavaWorkSpaceSTS\\ProjRegistration\\Pages\\RegistrationPage.html");
+		driver.get("D:\Users\simullap\Documents\inputFromCSVFileSelenium-master\inputFromCSVFileSelenium-master\ProjRegistration_CSV\Pages\RegistrationPage.html");
 
 	}
 
